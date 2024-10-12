@@ -15,7 +15,7 @@ I'm a **Engineering Student** and **video editor** with 1 year of experience wor
 - **Tools**: [DaVinci Resolve,Capcut,VS code,GitHub]
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinku_47&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinku-47&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/swaroop-ranjan-2ba361245/)
